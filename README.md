@@ -112,6 +112,8 @@ The sentiment analysis application can be containerized using Docker. Build the 
 
 - **Vectorizer (vectorizer.pkl):**
   - A Tfidf trained vectorizer for text data used in the sentiment analysis models.
+## Deployment:
+The model was deployrf to Heroku using CI with github actions.link:https://amazon-review-9c89937f0b0b.herokuapp.com/ not active now
 
 ## License:
 
